@@ -13,9 +13,9 @@ Swipe Gesture Recognition Mode: The script can identify left or right swipe move
 To use this script, a camera connected to your computer is required for capturing real-time video feed. The script will process the video stream, detect hands, and depending on the selected mode, perform the corresponding analysis.
 
 # Requirements
-Python 3.x
-OpenCV (cv2)
-MediaPipe (mediapipe)
-NumPy (numpy)
+Python , 
+OpenCV ,
+MediaPipe and
+NumPy 
 # BONUS
 The script bonus_195163.py is an interactive Python application that employs hand gesture recognition for playing a game of Rock-Paper-Scissors ("Chi-Fou-Mi") with the computer. Utilizing the same hand tracking and gesture recognition techniques as the finger counting mode in projet_hand_195163.py, this script combines MediaPipe and OpenCV to create a fun and interactive game.
